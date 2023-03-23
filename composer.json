@@ -1,5 +1,6 @@
 {
     "name": "chrome-php/chrome",
+    "type": "package",
     "description": "Instrument headless chrome/chromium instances from PHP",
     "keywords": ["chrome", "chromium", "crawl", "browser", "headless", "screenshot", "pdf", "puppeteer"],
     "license": "MIT",
